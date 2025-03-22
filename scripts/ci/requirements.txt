@@ -28,7 +28,7 @@ hive-thrift-py
 impyla
 ipython
 jaydebeapi
-jinja2<2.9.0
+jinja2<3.2.0
 jira
 ldap3
 lxml
@@ -41,7 +41,7 @@ nose-ignore-docstring==0.2
 nose-parameterized
 nose-timer
 pandas
-psutil>=4.2.0, <5.0.0
+psutil>=4.2.0, <8.0.0
 psycopg2
 pydruid
 pygments
